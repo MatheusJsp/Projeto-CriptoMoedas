@@ -1,0 +1,14 @@
+Projeto_Api/node_modules/
+Projeto_Api/.expo/
+Projeto_Api/dist/
+Projeto_Api/npm-debug.*
+Projeto_Api/*.jks
+Projeto_Api/*.p8
+Projeto_Api/*.p12
+Projeto_Api/*.key
+Projeto_Api/*.mobileprovision
+Projeto_Api/*.orig.*
+Projeto_Api/web-build/
+
+# macOS
+Projeto_Api/.DS_Store
